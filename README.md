@@ -1,4 +1,4 @@
-# Cześć, tu Filip 👋
+# Cześć, tu Filip �
 Student Matematyki i Analizy Danych (Politechnika Warszawska), realizuję materiał 3 roku. Szukam 1/2 etatu.
 
 ## Najciekawsze projekty 
