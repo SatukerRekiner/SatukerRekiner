@@ -1,5 +1,5 @@
 # Cześć, tu Filip 👋
-Student Matematyki i Analizy Danych, realizuję materiał 3 roku. Szukam 1/2 etatu.
+Student Matematyki i Analizy Danych (Politechnika Warszawska), realizuję materiał 3 roku. Szukam 1/2 etatu.
 
 ## Najciekawsze projekty 
 Większość projektów na studiach dotyczyła zagadnień matematycznych co bywa czasem nużące, dlatego dorzuciłem dodatkowo swoje prywatne projekty
