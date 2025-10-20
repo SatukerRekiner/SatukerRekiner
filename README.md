@@ -1,5 +1,6 @@
 # Cześć, tu Filip
 Student Matematyki i Analizy Danych (Politechnika Warszawska), realizuję materiał 3 roku. Szukam 1/2 etatu.
+Jestem chętny do rozwoju i nauki nowych rzeczy
 
 ## Najciekawsze projekty 
 Większość projektów na studiach dotyczyła zagadnień matematycznych co bywa czasem nużące, dlatego dorzuciłem dodatkowo swoje prywatne projekty
@@ -8,7 +9,10 @@ Większość projektów na studiach dotyczyła zagadnień matematycznych co bywa
 - **Story generator + upload (Python/API)** – generowanie treści + automatyczny upload. [Repo](https://github.com/SatukerRekiner/story-generator-upload) · [Demo MP4](https://github.com/SatukerRekiner/story-generator-upload/releases/download/1/demo.mp4)
 
 ## Tech stack
-Python, R, Git/GitHub, MATLAB, Mathematica, Excel (VBA).
+Python, R, Git/GitHub, MATLAB, Mathematica, Excel (VBA), JupyterNotebook, podstawy SQL
+
+## Technologie i narzędzia (poziom bardzo podstawowy)
+PostgreSQL, Docker, Airflow, BigQuery 
 
 ## Kontakt
 - Email: filippo.galinski@gmail.com
