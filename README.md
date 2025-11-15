@@ -12,7 +12,7 @@ Większość projektów na studiach dotyczyła zagadnień matematycznych co bywa
 Python, R, Git/GitHub, MATLAB, Mathematica, Excel (VBA), JupyterNotebook, podstawy SQL
 
 ## Technologie i narzędzia (poziom bardzo podstawowy)
-PostgreSQL, Docker, Airflow, BigQuery 
+PostgreSQL, Docker, Airflow, BigQuery, Oracle
 
 ## Kontakt
 - Email: filippo.galinski@gmail.com
