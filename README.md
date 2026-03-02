@@ -9,7 +9,7 @@ Większość projektów na studiach dotyczyła zagadnień matematycznych co bywa
 - **Story generator + upload (Python/API)** – generowanie treści + automatyczny upload. [Repo](https://github.com/SatukerRekiner/story-generator-upload) · [Demo MP4](https://github.com/SatukerRekiner/story-generator-upload/releases/download/1/demo.mp4)
 
 ## Tech stack
-Python, R, Git/GitHub, MATLAB, Mathematica, Excel (VBA), JupyterNotebook, podstawy SQL
+Python, R, Git/GitHub, MATLAB, Mathematica, Excel (VBA), JupyterNotebook, SQL
 
 ## Technologie i narzędzia (poziom bardzo podstawowy)
 PostgreSQL, Docker, Airflow, BigQuery, Oracle
